@@ -5,4 +5,6 @@ template: home
 blueprint: pages
 ---
 
-## Welcome to sk8prks.com
+# sk8prks.com
+
+coming soon...
