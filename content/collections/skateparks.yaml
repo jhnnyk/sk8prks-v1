@@ -1,0 +1,4 @@
+title: Skateparks
+template: default
+layout: layout
+route: "/skatepark/{slug}"
