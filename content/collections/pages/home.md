@@ -5,6 +5,6 @@ template: home
 blueprint: pages
 ---
 
-# sk8prks.com
+<h1 class="text-3xl">sk8prks.com</h1>
 
 coming soon...
